@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel",
+  "short_name": "Sentinel",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
